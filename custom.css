@@ -37,7 +37,7 @@ limitations under the License.
    --text-special: var(--primary);
 
    --scrollbar-background: var(--background);
-   /* Yellow */
+   /* Yellow (broken) */
    --scrollbar-border: #E5C07B;
 }
 
