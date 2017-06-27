@@ -30,10 +30,12 @@ limitations under the License.
    --background-light: #AAA;
    --background-bright: #FFF;
 
-   --border-dim: #666;
-   --border-bright: var(--primary);
+   /* Red */
+   --border-dim: #E06C75;
+   /* Green */
+   --border-bright: #98C379;
 
-   --text-bright: #FFF;
+   --text-bright: var(--text);
    --text-special: var(--primary);
 
    --scrollbar-background: var(--background);
