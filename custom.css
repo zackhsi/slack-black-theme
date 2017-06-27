@@ -23,7 +23,7 @@ limitations under the License.
    /* Black */
    --background: #282C34;
    /* Special grey */
-   --background-elevated: #3B4048;
+   --background-elevated: #282C34;
 
    /* These should be less important: */
    --background-hover: rgba(255, 255, 255, 0.1);
